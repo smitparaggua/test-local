@@ -7,7 +7,7 @@ module.exports = {
   BASE_URL: 'http://localhost:8081',
   ACCOUNTS_URL: 'https://api.paymaya.com',
 
-  ASSET_BASE_URL: 'https://cdn.paymaya.com/production/devportal/www',
+  //ASSET_BASE_URL: 'https://cdn.paymaya.com/production/devportal/www',
 
   //use this pair for sandbox mode
   PAYPAL_MODE: 'sandbox',
