@@ -27,7 +27,8 @@ module.exports = {
     mongo: {
       adapter: 'sails-mongo',
       // host: 'mongo',
-      host: 'localhost',
+      // host: 'localhost',
+      host: '172.16.149.99',
       port: 27017,
       database: 'smi_devportal'
     }
