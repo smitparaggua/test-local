@@ -23,8 +23,11 @@ module.exports = {
   APIGEE_ACCESS_ID:'inU5jo803C0Jr82KP5XQiQALAQA7Nygy',
   APIGEE_ACCESS_SECRET:'iWRdce1CPhoWWi6j',
 
+  models: {
+    connection: 'mongo'
+  },
+
   connections:{
-    "default": "mongo",
     mongo: {
       adapter: 'sails-mongo',
       // host: 'mongo',
