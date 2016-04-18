@@ -24,6 +24,7 @@ module.exports = {
   APIGEE_ACCESS_SECRET:'iWRdce1CPhoWWi6j',
 
   connections:{
+    "default": "mongo",
     mongo: {
       adapter: 'sails-mongo',
       // host: 'mongo',
