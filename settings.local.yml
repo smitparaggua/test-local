@@ -1,0 +1,14 @@
+sso:
+  url: "sso:8080"
+  client_id: "merchant-portal"
+  secret: "eWqdGu-q11ro_MNvKAJSAVeMPsVuz3lE4_5FsDhsoxDrRaKTqTqIx2avwsWwsUMoWcwUeWI3D45uuwpOnAdhEw"
+
+api:
+  checkout:
+    sandbox: "http://52.76.74.110:8088/v1"
+  payment:
+    sandbox: "http://52.76.57.133:8001/v1"
+  commons:
+    sandbox: "http://52.74.60.182:8002"
+
+secret_key_base: "f0ba6f1b106422deddd95193126800b0f407746cae7d2ad5f9f6a7be79327b82ba1836f15e4d7cba5e5eeb40ab8e791d620538d28709d7b21c208bc4e65f3169"

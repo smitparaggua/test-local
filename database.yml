@@ -1,0 +1,10 @@
+production:
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  timeout: 5000
+  host: "postgres"
+  username: "merchantportaluser"
+  password: "testing123"
+  database: "merchant_portal_development"
+
