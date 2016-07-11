@@ -1,5 +1,5 @@
 sso:
-  url: "http://sso:8080"
+  url: "http://192.168.99.100:8080"
   client_id: "merchant-portal"
   secret: "eWqdGu-q11ro_MNvKAJSAVeMPsVuz3lE4_5FsDhsoxDrRaKTqTqIx2avwsWwsUMoWcwUeWI3D45uuwpOnAdhEw"
 
