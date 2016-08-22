@@ -1,3 +1,11 @@
+mailer:
+  smtp:
+    address: "localhost"
+    port: 2525
+    authentication: "plain"
+    user_name: "do-not-reply@paymaya.com"
+    password: "testing123"
+
 sso:
   url: "http://7bb7d0b4.ngrok.io"
   client_id: "merchant-portal"
